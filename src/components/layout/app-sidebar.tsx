@@ -13,6 +13,10 @@ import {
   User,
   ArrowRight,
   Github,
+  Server,
+  Database,
+  TestTube,
+  Users,
 } from "lucide-react";
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -23,9 +27,11 @@ import {
 // ═══════════════════════════════════════════════════════════════════════════
 
 const navItems = [
-  { href: "/", label: "Dashboard", icon: LayoutDashboard },
-  // Dashboard Builder agent: add 3-5 feature page nav items here.
-  // Example: { href: "/orders", label: "Orders", icon: ShoppingCart },
+  { href: "/", label: "Sprint Board", icon: LayoutDashboard },
+  { href: "/services", label: "Microservices", icon: Server },
+  { href: "/database", label: "Database Monitor", icon: Database },
+  { href: "/tests", label: "Test Suites", icon: TestTube },
+  { href: "/team", label: "Team", icon: Users },
 ];
 
 function SidebarLogo({ collapsed }: { collapsed: boolean }) {
