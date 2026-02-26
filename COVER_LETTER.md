@@ -1,6 +1,6 @@
 Hi,
 
-React + Spring Boot + Node.js with Oracle, full Playwright test coverage, and 7-8 hours a day US time — I built a working version of this stack before reaching out: {VERCEL_URL}
+React + Spring Boot + Node.js with Oracle, full Playwright test coverage, and 7-8 hours a day US time — I built a working version of this stack before reaching out: https://fullstack-webapp-demo.vercel.app
 
 The demo covers the React frontend with Material UI component patterns, a Node.js service layer, and a SQL-backed data model — the core of what you're running day-to-day.
 

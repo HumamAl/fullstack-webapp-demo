@@ -4,7 +4,7 @@
 
 Yes — I've shipped 24+ React/Next.js apps to production, including multi-module SaaS platforms with complex state and real client usage.
 
-Built a working full-stack web app demo specifically for your project: {VERCEL_URL}
+Built a working full-stack web app demo specifically for your project: https://fullstack-webapp-demo.vercel.app
 
 ---
 
